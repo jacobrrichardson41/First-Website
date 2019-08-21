@@ -1,0 +1,40 @@
+ h1 {
+     text-align: center;}
+
+ Body { 
+ background-image: url("http://wallpapershdnow.com/images/movies/superhero/avengers-infinity-war/avengers-infinity-war-background-4.jpg"); background-repeat: no-repeat;
+ background-size: 100%; 
+ }
+ /*
+h3 {
+    text-align: right;
+/*  
+}
+ol {text-align: right; 
+    border-width:1px;
+    border-color: blue;
+    border-style: solid;
+    border-collapse: collapse;
+    
+} 
+ul {
+    text-align: right;
+} 
+h2 {
+    text-align:right;
+} */
+p 
+{text-align:center;}
+ 
+#lists
+{
+    display: grid;
+    grid-template-columns: 40%;
+    justify-content: flex-end;
+}
+
+
+
+
+
+
